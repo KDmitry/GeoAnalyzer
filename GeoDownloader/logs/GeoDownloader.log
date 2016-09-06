@@ -1,0 +1,18 @@
+18/04/2016 20:36:14  INFO [main] InternetAccess:downloadPage:23 - Download page : https://www.instagram.com/p/BEVv35MMHn_
+18/04/2016 20:36:29  INFO [main] InternetAccess:downloadPage:31 - Status code = 200
+18/04/2016 20:36:31  INFO [main] InternetAccess:downloadPage:40 - Start reading page
+18/04/2016 20:36:33  INFO [main] InternetAccess:downloadPage:44 - End of reading page
+18/04/2016 20:36:54  INFO [main] InternetAccess:downloadPage:23 - Download page : https://www.instagram.com/p/BEVv35MMHn_
+18/04/2016 20:37:11  INFO [main] InternetAccess:downloadPage:31 - Status code = 200
+18/04/2016 20:37:13  INFO [main] InternetAccess:downloadPage:40 - Start reading page
+18/04/2016 20:37:14  INFO [main] InternetAccess:downloadPage:44 - End of reading page
+18/04/2016 20:37:27  INFO [main] InternetAccess:downloadPage:23 - Download page : https://www.instagram.com/p/BEVv35MMHn_
+18/04/2016 20:37:44 ERROR [main] InternetAccess:downloadPage:50 - Read timed out
+18/04/2016 20:42:18  INFO [main] InternetAccess:downloadPage:25 - Download page : https://www.instagram.com/p/BEVv35MMHn_
+18/04/2016 20:42:20  INFO [main] InternetAccess:downloadPage:33 - Status code = 200
+18/04/2016 20:42:20  INFO [main] InternetAccess:downloadPage:42 - Start reading page
+18/04/2016 20:42:20  INFO [main] InternetAccess:downloadPage:46 - End of reading page
+18/04/2016 20:42:31  INFO [main] InternetAccess:downloadPage:25 - Download page : https://www.instagram.com/p/BEVv35MMHn_
+18/04/2016 20:42:38 ERROR [main] InternetAccess:downloadPage:49 - Read timed out
+18/04/2016 20:42:42  INFO [main] InternetAccess:downloadPage:25 - Download page : https://www.instagram.com/p/BEVv35MMHn_
+18/04/2016 20:42:47 ERROR [main] InternetAccess:downloadPage:49 - Read timed out

@@ -1,0 +1,172 @@
+25/03/2016 19:57:53  INFO [Thread-3] Manager:run:70 - Start manager run
+25/03/2016 19:57:53  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:57:53  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:57:53  INFO [Thread-3] Manager:openConnection:169 - RPC connection are opened
+25/03/2016 19:57:53  INFO [Thread-3] Manager:run:75 - Check update
+25/03/2016 19:57:53  INFO [Thread-3] RpcClient:checkUpdate:53 - Check update
+25/03/2016 19:57:54  INFO [Thread-3] Manager$CheckUpdateTask:checkUpdate:51 - No new version
+25/03/2016 19:57:54  INFO [Thread-3] Manager:run:78 - Start timer for checking update
+25/03/2016 19:57:54  INFO [Thread-3] Manager:run:82 - Computer name : Macbook-Dima.local-2.0:::085a971a-288f-4a19-8556-96f518af59fb
+25/03/2016 19:57:54  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:57:54  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:58:17  INFO [Thread-3] RpcClient:getTasks:71 - Tasks count : 0
+25/03/2016 19:58:17  INFO [Thread-3] Manager:run:88 - Tasks count : 0
+25/03/2016 19:58:17  INFO [Thread-3] Manager:run:99 - No tasks
+25/03/2016 19:58:22  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:58:22  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:58:22 ERROR [Thread-3] ServerProxy:getTasks:28 - Connection closed
+25/03/2016 19:58:22  INFO [Thread-3] RpcClient:getTasks:74 - No response, tasks are null
+25/03/2016 19:58:22  INFO [Thread-3] Manager:run:106 - No response, try reopen connection
+25/03/2016 19:58:22  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:58:22  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:58:22 ERROR [Thread-3] RpcClient:open:47 - Connection refused
+25/03/2016 19:58:22  INFO [Thread-3] Manager:openConnection:165 - RPC connection doesnt opened
+25/03/2016 19:58:22  INFO [Thread-3] Manager:waitRpcConnection:194 - Open RPC connection
+25/03/2016 19:58:22  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:58:22 ERROR [Thread-3] RpcClient:open:47 - Connection refused
+25/03/2016 19:58:22  INFO [Thread-3] Manager:waitRpcConnection:197 - RPC connection doesnt opened
+25/03/2016 19:58:32  INFO [Thread-3] Manager:waitRpcConnection:203 - Open RPC connection
+25/03/2016 19:58:32  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:58:32 ERROR [Thread-3] RpcClient:open:47 - Connection refused
+25/03/2016 19:58:32  INFO [Thread-3] Manager:waitRpcConnection:197 - RPC connection doesnt opened
+25/03/2016 19:58:42  INFO [Thread-3] Manager:waitRpcConnection:203 - Open RPC connection
+25/03/2016 19:58:42  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:58:42 ERROR [Thread-3] RpcClient:open:47 - Connection refused
+25/03/2016 19:58:42  INFO [Thread-3] Manager:waitRpcConnection:197 - RPC connection doesnt opened
+25/03/2016 19:58:52  INFO [Thread-3] Manager:waitRpcConnection:203 - Open RPC connection
+25/03/2016 19:58:52  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:58:52 ERROR [Thread-3] RpcClient:open:47 - Connection refused
+25/03/2016 19:58:52  INFO [Thread-3] Manager:waitRpcConnection:197 - RPC connection doesnt opened
+25/03/2016 19:59:02  INFO [Thread-3] Manager:waitRpcConnection:203 - Open RPC connection
+25/03/2016 19:59:02  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:02  INFO [Thread-3] Manager:openConnection:169 - RPC connection are opened
+25/03/2016 19:59:02  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:59:02  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:59:03  INFO [Thread-3] RpcClient:getTasks:71 - Tasks count : 0
+25/03/2016 19:59:03  INFO [Thread-3] Manager:run:88 - Tasks count : 0
+25/03/2016 19:59:03  INFO [Thread-3] Manager:run:99 - No tasks
+25/03/2016 19:59:08  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:59:08  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:59:55 ERROR [Thread-3] ServerProxy:getTasks:28 - NullPointerException
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:74 - No response, tasks are null
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:106 - No response, try reopen connection
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:169 - RPC connection are opened
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:59:55 ERROR [Thread-3] ServerProxy:getTasks:28 - NullPointerException
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:74 - No response, tasks are null
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:106 - No response, try reopen connection
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:169 - RPC connection are opened
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:59:55 ERROR [Thread-3] ServerProxy:getTasks:28 - NullPointerException
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:74 - No response, tasks are null
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:106 - No response, try reopen connection
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:169 - RPC connection are opened
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:59:55 ERROR [Thread-3] ServerProxy:getTasks:28 - NullPointerException
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:74 - No response, tasks are null
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:106 - No response, try reopen connection
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:169 - RPC connection are opened
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:59:55 ERROR [Thread-3] ServerProxy:getTasks:28 - NullPointerException
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:74 - No response, tasks are null
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:106 - No response, try reopen connection
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:169 - RPC connection are opened
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:59:55 ERROR [Thread-3] ServerProxy:getTasks:28 - NullPointerException
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:74 - No response, tasks are null
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:106 - No response, try reopen connection
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:169 - RPC connection are opened
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:59:55 ERROR [Thread-3] ServerProxy:getTasks:28 - NullPointerException
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:74 - No response, tasks are null
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:106 - No response, try reopen connection
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:169 - RPC connection are opened
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:59:55 ERROR [Thread-3] ServerProxy:getTasks:28 - NullPointerException
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:74 - No response, tasks are null
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:106 - No response, try reopen connection
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:169 - RPC connection are opened
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:59:55 ERROR [Thread-3] ServerProxy:getTasks:28 - NullPointerException
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:74 - No response, tasks are null
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:106 - No response, try reopen connection
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:169 - RPC connection are opened
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:59:55 ERROR [Thread-3] ServerProxy:getTasks:28 - NullPointerException
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:74 - No response, tasks are null
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:106 - No response, try reopen connection
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:169 - RPC connection are opened
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:59:55 ERROR [Thread-3] ServerProxy:getTasks:28 - NullPointerException
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:74 - No response, tasks are null
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:106 - No response, try reopen connection
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:169 - RPC connection are opened
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:59:55 ERROR [Thread-3] ServerProxy:getTasks:28 - NullPointerException
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:74 - No response, tasks are null
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:106 - No response, try reopen connection
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:55  INFO [Thread-3] Manager:openConnection:169 - RPC connection are opened
+25/03/2016 19:59:55  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:59:55  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:59:56 ERROR [Thread-3] ServerProxy:getTasks:28 - NullPointerException
+25/03/2016 19:59:56  INFO [Thread-3] RpcClient:getTasks:74 - No response, tasks are null
+25/03/2016 19:59:56  INFO [Thread-3] Manager:run:106 - No response, try reopen connection
+25/03/2016 19:59:56  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:59:56  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:56  INFO [Thread-3] Manager:openConnection:169 - RPC connection are opened
+25/03/2016 19:59:56  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:59:56  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:59:56 ERROR [Thread-3] ServerProxy:getTasks:28 - NullPointerException
+25/03/2016 19:59:56  INFO [Thread-3] RpcClient:getTasks:74 - No response, tasks are null
+25/03/2016 19:59:56  INFO [Thread-3] Manager:run:106 - No response, try reopen connection
+25/03/2016 19:59:56  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:59:56  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:56  INFO [Thread-3] Manager:openConnection:169 - RPC connection are opened
+25/03/2016 19:59:56  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 19:59:56  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 19:59:56 ERROR [Thread-3] ServerProxy:getTasks:28 - Connection closed
+25/03/2016 19:59:56  INFO [Thread-3] RpcClient:getTasks:74 - No response, tasks are null
+25/03/2016 19:59:56  INFO [Thread-3] Manager:run:106 - No response, try reopen connection
+25/03/2016 19:59:56  INFO [Thread-3] Manager:openConnection:163 - Open RPC connection
+25/03/2016 19:59:56  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:56 ERROR [Thread-3] RpcClient:open:47 - Connection refused
+25/03/2016 19:59:56  INFO [Thread-3] Manager:openConnection:165 - RPC connection doesnt opened
+25/03/2016 19:59:56  INFO [Thread-3] Manager:waitRpcConnection:194 - Open RPC connection
+25/03/2016 19:59:56  INFO [Thread-3] RpcClient:open:43 - Open rpc connection : address - localhost, port - 7076
+25/03/2016 19:59:56 ERROR [Thread-3] RpcClient:open:47 - Connection refused
+25/03/2016 19:59:56  INFO [Thread-3] Manager:waitRpcConnection:197 - RPC connection doesnt opened

@@ -1,0 +1,5 @@
+10/05/2016 16:37:25  INFO [main] RpcClient:open:36 - Open rpc connection : address - localhost, port - 7076
+10/05/2016 16:37:25 ERROR [main] RpcClient:open:40 - Connection refused
+10/05/2016 16:37:41  INFO [AWT-EventQueue-0] LocationStatisticManager:downloadLocationsStatistic:98 - Start download location statistic
+10/05/2016 16:37:48  INFO [Thread-3] LocationStatisticManager:lambda$downloadLocationsStatistic$1:134 - End of downloading location statistic
+10/05/2016 16:39:03  INFO [Thread-10] RpcClient:getFullLocationStatistic:67 - Get location statistic

@@ -1,0 +1,106 @@
+25/03/2016 22:00:00  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp8uNiaiH
+25/03/2016 22:00:01  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp8b2m7Mv
+25/03/2016 22:00:02  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp8G1gEp_
+25/03/2016 22:00:03 ERROR [Thread-3] InstagramApi:getInstagramPost:179 - JSONObject["caption"] not found.
+25/03/2016 22:00:03  INFO [Thread-3] InstagramApi:getLastPostsLinks:28 - Get last posts links: locationId: 17326249, postMaxId: -1
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpmcPFU6d
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpl5_G472
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpla3Ms5X
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYplaUsEU3
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYplDhiy5W
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYplBTp3Ax
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpkqYl30Z
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpj7ws_6X
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpj2PxvmB
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpjuNOGxN
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpjJvl2IV
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpjBizIvX
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpiaQLJiW
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYphuODWXn
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYphkwJZjM
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYphZ1CYtA
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYphM9uiKn
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpgwIpTjX
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpgrVsgkB
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpga_jCSH
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpfqtqWFP
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpfQ8Got7
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpfDkGmlq
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpdCtHsmG
+25/03/2016 22:00:04  INFO [Thread-3] InstagramApi:getLastPostsLinks:84 - Next page link: https://www.instagram.com/explore/locations/17326249/?max_id=1213902415252605318
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpclsLdbD
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpcXhBg1M
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpbzuH6yn
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpbWnrCag
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpbDzN73d
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpaFrsYc9
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpZjimbdg
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpZQwKNPB
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpY9LHsl7
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpYhlOjxW
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpYMklCyv
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpW8MpWAl
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpWQWPXLJ
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpVinOFvk
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpUp7MRx9
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpThZLiCO
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpSwXFWJ5
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpStVJY7B
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpSY-jSUO
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpRnTo-0s
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpP9aGPs8
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpP2Yh7_z
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpPt2F6rI
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpPkuw9Yh
+25/03/2016 22:00:06  INFO [Thread-3] InstagramApi:getLastPostsLinks:84 - Next page link: https://www.instagram.com/explore/locations/17326249/?max_id=1213901489714746913
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpN_aQGNe
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpN85gxq9
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpNyZNuDk
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpNwsEV1S
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpNV8oebs
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpM8PxsrY
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpM3sBJcD
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpMOpQUuN
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpMIFJNhN
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpLTfyUBj
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpKbZH7op
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpKNNB5EL
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpKF5lxOz
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpJWExM1b
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpJAqq-yD
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpH4mRBcG
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpHvFp5OQ
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpHXUit-6
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpHBuHob5
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpG_5vxI8
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpG_oDl4K
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpGcYADw1
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpGQmRTs1
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:75 - Add post link: https://www.instagram.com/p/BDYpFkuo64W
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getLastPostsLinks:84 - Next page link: https://www.instagram.com/explore/locations/17326249/?max_id=1213900802517872150
+25/03/2016 22:00:07  INFO [Thread-3] Manager:run:92 - Task results count : 21
+25/03/2016 22:00:07  INFO [Thread-3] Manager:run:93 - Send task results
+25/03/2016 22:00:07  INFO [Thread-3] RpcClient:saveTasksResults:92 - Send task results
+25/03/2016 22:00:07  INFO [Thread-3] Manager:run:85 - Get tasks
+25/03/2016 22:00:07  INFO [Thread-3] RpcClient:getTasks:64 - Get tasks
+25/03/2016 22:00:07  INFO [Thread-3] RpcClient:getTasks:71 - Tasks count : 20
+25/03/2016 22:00:07  INFO [Thread-3] Manager:run:88 - Tasks count : 20
+25/03/2016 22:00:07  INFO [Thread-3] Manager:run:90 - Execute tasks
+25/03/2016 22:00:07  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp8FxjaE1
+25/03/2016 22:00:08  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp7cqhybM
+25/03/2016 22:00:09  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp7cfRGtP
+25/03/2016 22:00:10  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp7agwTLJ
+25/03/2016 22:00:11  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp7EeKiKQ
+25/03/2016 22:00:12  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp6dCnKtK
+25/03/2016 22:00:13  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp6KGK0cR
+25/03/2016 22:00:14 ERROR [Thread-3] InstagramApi:getInstagramPost:179 - JSONObject["caption"] not found.
+25/03/2016 22:00:14  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp6DEgMXa
+25/03/2016 22:00:15  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp5vvGMev
+25/03/2016 22:00:16  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp5t0Ta24
+25/03/2016 22:00:17  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp5XdIsB3
+25/03/2016 22:00:21  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp470kI8k
+25/03/2016 22:00:21 ERROR [Thread-3] InstagramApi:getInstagramPost:179 - JSONObject["caption"] not found.
+25/03/2016 22:00:21  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp469uBuC
+25/03/2016 22:00:23  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp4T6NPgQ
+25/03/2016 22:00:24  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp4LZqZzn
+25/03/2016 22:00:25  INFO [Thread-3] InstagramApi:getInstagramPost:105 - Get post for link: https://www.instagram.com/p/BDYp3rFJj5R

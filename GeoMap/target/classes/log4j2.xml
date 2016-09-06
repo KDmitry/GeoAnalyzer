@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Appenders>
+        <RollingFile name="mainLog" fileName="logs/GeoMap.log"
+                     filePattern="logs/GeoMap-%d{yyyy-MM-dd-HH}-%i.log.gz">
+            <PatternLayout>
+                <Pattern>%d{dd/MM/yyyy HH:mm:ss} %5p [%t] %C{1}:%M:%L - %m%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy />
+                <SizeBasedTriggeringPolicy size="50 MB"/>
+            </Policies>
+
+            <DefaultRolloverStrategy max="1"/>
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="mainLog"/>
+        </Root>
+    </Loggers>
+</Configuration> 

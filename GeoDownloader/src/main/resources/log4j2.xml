@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Appenders>
+        <RollingFile name="mainLog" fileName="logs/GeoDownloader.log"
+                     filePattern="logs/GeoDownloader-%d{yyyy-MM-dd-HH}-%i.log.gz">
+            <PatternLayout>
+                <Pattern>%d{dd/MM/yyyy HH:mm:ss} %5p [%t] %C{1}:%M:%L - %m%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy />
+                <SizeBasedTriggeringPolicy size="5 MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="1"/>
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <Root level="trace">
+            <AppenderRef ref="mainLog"/>
+        </Root>
+    </Loggers>
+</Configuration>

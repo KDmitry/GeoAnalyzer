@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="320.0" prefWidth="464.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.dmitry.geoserver.WorkPanelDlg">
+   <children>
+      <Accordion layoutX="100.0" layoutY="101.0" />
+      <TableView fx:id="downloadersTable" layoutX="14.0" layoutY="15.0" prefHeight="172.0" prefWidth="437.0">
+        <columns>
+          <TableColumn fx:id="downloaderNameCol" prefWidth="182.0" text="Имя загрузчика" />
+          <TableColumn fx:id="tasksCountCol" minWidth="0.0" prefWidth="126.0" text="Кол-во задач" />
+            <TableColumn fx:id="workTimeCol" prefWidth="126.0" text="Время работы" />
+        </columns>
+      </TableView>
+      <Label layoutX="53.0" layoutY="227.0" text="Задачи на загрузку ссылок на посты:" />
+      <Label layoutX="61.0" layoutY="244.0" prefHeight="17.0" prefWidth="239.0" text="Задачи на загрузку данных о посте:" />
+      <Label layoutX="133.0" layoutY="261.0" text="Выполняющиеся задачи:" />
+      <Label layoutX="14.0" layoutY="203.0" text="Статистика:" />
+      <Label layoutX="201.0" layoutY="292.0" text="Всего постов:" />
+      <Label fx:id="linksTasksCount" layoutX="300.0" layoutY="227.0" prefHeight="17.0" prefWidth="69.0" text="Label" />
+      <Label fx:id="postsTasksCount" layoutX="300.0" layoutY="244.0" prefHeight="17.0" prefWidth="69.0" text="Label" />
+      <Label fx:id="postsCount" layoutX="300.0" layoutY="292.0" prefHeight="17.0" prefWidth="112.0" text="Label" />
+      <Label fx:id="solvingTasksCount" layoutX="300.0" layoutY="261.0" prefHeight="17.0" prefWidth="69.0" text="Label" />
+   </children>
+</Pane>
